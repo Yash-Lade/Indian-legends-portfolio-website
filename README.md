@@ -3,8 +3,9 @@ In this repository, a website of Portfolio of Indain Legends is shared which is 
 
 This website has a total of five pages which are as follows-</br>
 
--Home Page
--Legends page/ Main page
--Contact page
--Gallery page
--About page
+-Home Page</br>
+-Legends page/ Main page</br>
+-Contact page****
+-Gallery page</br>
+-About page</br>
+
