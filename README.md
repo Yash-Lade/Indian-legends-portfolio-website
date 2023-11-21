@@ -5,7 +5,7 @@ This website has a total of five pages which are as follows-</br>
 
 -Home Page</br>
 -Legends page/ Main page</br>
--Contact page****
+-Contact page</br>
 -Gallery page</br>
 -About page</br>
 
